@@ -8,5 +8,5 @@ Notebook contains all analysis, modelling and visualizations.
 
 Tableau workbook contains dashboard to visualize model predictions for individual games and players.
 
-#Link below to final presentation (1st presentation)
+Link below to final presentation (1st presentation)
 https://www.youtube.com/watch?v=qO33g_PGGCI&feature=youtu.be&ab_channel=SportsTechWorldSeries
